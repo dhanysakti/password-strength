@@ -29,4 +29,5 @@ export const Signup = () => {
         }
         setStrength(strengthLabels[strengthIndicator]);
     }
+    ini adalah contoh tambahan untuk version 1.1
 };
